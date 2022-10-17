@@ -1,4 +1,4 @@
-const numbers =  [1, 5, 20, 4, 241]
+const numbers = [1, 5, 20, 4, 241]
 
 function range(array) {
   // if (num1 > num2 && num1 > num3) {
@@ -8,8 +8,7 @@ function range(array) {
   return difference
   // }
   // for (let i = 0; i < array.length; i++) {
-    
+
   //   return console.log(array[i])
   // }
-  
 }
